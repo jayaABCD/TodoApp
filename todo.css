@@ -1,0 +1,39 @@
+body{
+    background-color: rgb(4, 35, 20);
+}
+.container{
+    width: 400px;
+    padding: 33px;
+    text-align: center;
+    background-color: white;
+    margin-left: 33%;
+    margin-top: 5px;
+}
+input{
+    width: 270px;
+    padding: 8px;
+    border: 2px solid aqua;
+    outline: none;
+}
+button{
+    width: 70px;
+    height: 37px;
+    background-color: rgb(4,29,29);
+    color: white;
+    border-radius: 2px;
+    cursor: pointer;
+}
+
+.text ul{
+    position: relative;
+    background-color: rgb(4, 43, 43);
+    font-size: 19px;
+    text-align: left;
+    color: white;
+    padding: 7px;
+}
+.text ul i{
+    position: absolute;
+    right: 10px;
+    cursor: pointer;
+}
